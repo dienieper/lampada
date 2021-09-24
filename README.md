@@ -3,6 +3,9 @@
 </h3>
 
 <h1 align="center">
+  
+  
+  
     <img alt="lampada ligada" src="./img/1.jpg" width="200" heigth="416" />
     <img alt="lampada desligada" src="./img/2.jpg" width="200" heigth="416" />
     <img alt="lampada quebrada" src="./img/3.jpg" width="200" heigth="416" />
